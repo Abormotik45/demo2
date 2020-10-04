@@ -1,0 +1,19 @@
+				body{
+			color:black;
+			font-size: 30px;
+			background: white;
+		}
+.blue{
+	background: blue;
+}
+
+.green{
+	background:green;
+}
+	#top: {text-decoration: none;}
+.wrap{
+	width: 750px;
+	border: 1px solid red;	
+	margin: 0 auto;
+
+}
